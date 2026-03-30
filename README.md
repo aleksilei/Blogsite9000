@@ -1,7 +1,7 @@
+# Deprecated
+
 # Blogsite9000
 Personal blogging site template. Written in `Go` & `HTMX`.
-
-If [the site](https://alepablog.com) is down, it's not actively being pitched to anyone.
 
 # Purpose
 To:
